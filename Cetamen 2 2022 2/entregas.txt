@@ -1,0 +1,7 @@
+Universidad Nacional de Córdoba;C;3;yes;125
+Universidad de la Habana;A;4;no
+Massachussetts Institute of Technology;A;1;yes;50
+Massachussetts Institute of Technology;B;2;yes;184
+University of Tokyo;A;1;yes;128
+University of Tokyo;B;1;yes;150
+Universidad Nacional de Córdoba;H;1;yes;67
